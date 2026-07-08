@@ -1,1 +1,1 @@
-# NeuroSybolicLand
+# NeuroSymbolicLand
